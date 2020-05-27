@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1590565009 source:c:\users\duy duong\desktop\domin\init.cpp
+	"mine_sweeper.h"
+
+1590565166 c:\users\duy duong\desktop\domin\mine_sweeper.h
+	"init.h"
+
+1558753520 c:\users\duy duong\desktop\domin\init.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1590565009 source:c:\users\duy duong\desktop\domin\main.cpp
+	<string>
+	<cmath>
+	"mine_sweeper.h"
+	<time.h>
+	<stdlib.h>
+	<Windows.h>
+
+1590565441 source:c:\users\duy duong\desktop\domin\minee_sweeper.cpp
+	"mine_sweeper.h"
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
